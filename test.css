@@ -1,0 +1,32 @@
+#Header{
+    Border:solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#LeftNav{
+    float:left;
+    width: 400px;
+    Border:solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#Content{
+    width: 700px;
+    Border:solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#Footer{
+    width: 400px;
+    Border:solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
